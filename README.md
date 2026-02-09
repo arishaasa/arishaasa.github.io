@@ -2,3 +2,4 @@
 ###### this is the 6th heading
 **this is bold text**
 __this is italic text__
+__this is italic text__
